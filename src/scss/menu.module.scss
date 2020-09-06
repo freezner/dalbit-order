@@ -1,0 +1,38 @@
+.ul {
+  width: 80vw;
+  margin:0 auto;
+  margin-bottom:50px;
+  padding:0;
+
+  dt {
+    width:100%;
+    text-align:center;
+    border-bottom:2px solid #ddd;
+    font-size:2em;
+    margin-top:50px;
+    padding:10px 0;
+  }
+
+  li {
+    width:100%;
+    text-align:center;
+    padding:10px 0;
+    list-style: none;
+    font-size:1.5em;
+    overflow:hidden;
+    border-bottom:1px solid #ddd;
+
+    .name {
+      float:left;
+    }
+
+    .price {
+      float:right;
+    }
+  }
+
+  li[data-show="N"] > span {
+    color: #9e9e9e;
+    text-decoration:line-through;
+  }
+}

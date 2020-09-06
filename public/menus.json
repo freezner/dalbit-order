@@ -1,0 +1,29 @@
+[
+  {
+    "title": "디저트",
+    "items": [
+      {"name": "디저트A", "price": 2500, "stockCount": 10, "isShow": "N"},
+      {"name": "디저트B", "price": 2500, "stockCount": 12, "isShow": "N"},
+      {"name": "디저트C", "price": 2500, "stockCount": 11, "isShow": "N"},
+      {"name": "디저트D", "price": 2500, "stockCount": 15, "isShow": "Y"}
+    ]
+  },
+  {
+    "title": "마카롱",
+    "items": [
+      {"name": "마카롱A", "price": 2500, "stockCount": 10, "isShow": "Y"},
+      {"name": "마카롱B", "price": 2500, "stockCount": 10, "isShow": "N"},
+      {"name": "마카롱C", "price": 2500, "stockCount": 10, "isShow": "N"},
+      {"name": "마카롱D", "price": 2500, "stockCount": 10, "isShow": "N"}
+    ]
+  },
+  {
+    "title": "음료",
+    "items": [
+      {"name": "음료A", "price": 2500, "stockCount": 10, "isShow": "N"},
+      {"name": "음료B", "price": 2500, "stockCount": 10, "isShow": "Y"},
+      {"name": "음료C", "price": 2500, "stockCount": 10, "isShow": "N"},
+      {"name": "음료D", "price": 2500, "stockCount": 10, "isShow": "Y"}
+    ]
+  }
+]
