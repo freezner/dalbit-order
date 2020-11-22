@@ -8,8 +8,8 @@
       {"name": "마카롱 9구", "price": 22500, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 10구", "price": 25000, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 12구", "price": 30000, "stockCount": 1, "isShow": "Y"},
-      {"name": "큐브파운드", "price": 3000, "stockCount": 1, "isShow": "Y"}
-      {"name": "큐브파운드 세트(3개)", "price": 9000, "stockCount": 1, "isShow": "Y"}
+      {"name": "큐브파운드", "price": 3000, "stockCount": 1, "isShow": "Y"},
+      {"name": "큐브파운드 세트(3개)", "price": 9000, "stockCount": 1, "isShow": "Y"},
       {"name": "큐브파운드 세트(4개)", "price": 11000, "stockCount": 1, "isShow": "Y"}
     ]
   },
@@ -43,7 +43,7 @@
       {"name": "자몽 에이드", "price": 5000, "stockCount": 1, "isShow": "Y"},
       {"name": "복숭아 아이스티", "price": 3000, "stockCount": 1, "isShow": "Y"}
     ]
-  }
+  },
   {
     "title": "세트 메뉴",
     "items": [
