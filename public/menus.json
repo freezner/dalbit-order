@@ -2,7 +2,7 @@
   {
     "title": "디저트",
     "items": [
-      {"name": "마카롱 단품", "price": 2500, "stockCount": 1, "isShow": "Y"},
+      {"name": "마카롱 단품", "price_min": 2200, "price": 2500, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 4구", "price": 10000, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 6구", "price": 15000, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 9구", "price": 22500, "stockCount": 1, "isShow": "Y"},
@@ -26,6 +26,10 @@
   {
     "title": "차/음료",
     "items": [
+      {"name": "아메리카노(13oz)", "is_hot": 1, "price": 1500, "stockCount": 1, "isShow": "Y"},
+      {"name": "아메리카노(16oz)", "is_hot": 3, "price": 2500, "stockCount": 1, "isShow": "Y"},
+      {"name": "카페라떼", "is_hot": 2, "price": 4000, "stockCount": 1, "isShow": "Y"},
+      {"name": "바닐라라떼", "is_hot": 2, "price": 4500, "stockCount": 1, "isShow": "Y"},
       {"name": "홍차", "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "녹차", "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "우롱차", "price": 5500, "stockCount": 1, "isShow": "Y"},

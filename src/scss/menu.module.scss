@@ -29,6 +29,24 @@
     .price {
       float:right;
     }
+
+    .onlyHot {
+        padding-left:10px;
+        font-size:0.8em;
+        color:#d80000;
+    }
+
+    .onlyIced {
+        padding-left:10px;
+        font-size:0.8em;
+        color:#0038d8;
+    }
+
+    .hotAndIced {
+        padding-left:10px;
+        font-size:0.8em;
+        color:#3d3d3d;
+    }
   }
 
   li[data-show="N"] > span {
