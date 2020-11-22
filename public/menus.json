@@ -1,49 +1,54 @@
 [
   {
-    "title": "Dessert",
+    "title": "디저트",
     "items": [
-      {"name": "마카롱", "price": 2500, "stockCount": 1, "isShow": "Y"},
-      {"name": "큐브파운드", "price": 3000, "stockCount": 1, "isShow": "Y"},
-      {"name": "브라우니 쿠키", "price": 1100, "stockCount": 1, "isShow": "Y"},
-      {"name": "스콘", "price": 3000, "stockCount": 1, "isShow": "Y"},
-      {"name": "에그타르트", "price": 1300, "stockCount": 1, "isShow": "Y"}
+      {"name": "마카롱 단품", "price": 2500, "stockCount": 1, "isShow": "Y"},
+      {"name": "마카롱 4구", "price": 10000, "stockCount": 1, "isShow": "Y"},
+      {"name": "마카롱 6구", "price": 15000, "stockCount": 1, "isShow": "Y"},
+      {"name": "마카롱 9구", "price": 22500, "stockCount": 1, "isShow": "Y"},
+      {"name": "마카롱 10구", "price": 25000, "stockCount": 1, "isShow": "Y"},
+      {"name": "마카롱 12구", "price": 30000, "stockCount": 1, "isShow": "Y"},
+      {"name": "큐브파운드", "price": 3000, "stockCount": 1, "isShow": "Y"}
+      {"name": "큐브파운드 세트(3개)", "price": 9000, "stockCount": 1, "isShow": "Y"}
+      {"name": "큐브파운드 세트(4개)", "price": 11000, "stockCount": 1, "isShow": "Y"}
     ]
   },
   {
-    "title": "Tea",
+    "title": "쿠키",
+    "items": [
+      {"name": "크렌베리 치즈 쿠키", "price": 2500, "stockCount": 1, "isShow": "Y"},
+      {"name": "브라우니 쿠키", "price": 1300, "stockCount": 1, "isShow": "Y"},
+      {"name": "마약콘 쿠키", "price": 2200, "stockCount": 1, "isShow": "Y"},
+      {"name": "달치즈 쿠키", "price": 2000, "stockCount": 1, "isShow": "Y"},
+      {"name": "스콘", "price": 3000, "stockCount": 1, "isShow": "Y"}
+    ]
+  },
+  {
+    "title": "차/음료",
     "items": [
       {"name": "홍차", "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "녹차", "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "우롱차", "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "보이차", "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "자스민차", "price": 5000, "stockCount": 1, "isShow": "Y"},
-      {"name": "홍차라떼", "price": 6000, "stockCount": 1, "isShow": "Y"}
-    ]
-  },
-  {
-    "title": "Ade",
-    "items": [
-      {"name": "홍차 에이드", "price": 6500, "stockCount": 1, "isShow": "Y"},
-      {"name": "레몬 홍차 에이드", "price": 6800, "stockCount": 1, "isShow": "Y"},
-      {"name": "자몽 홍차 에이드", "price": 6800, "stockCount": 1, "isShow": "Y"},
-      {"name": "복숭아 아이스티", "price": 3000, "stockCount": 1, "isShow": "Y"}
-    ]
-  },
-  {
-    "title": "Milk Tea (Bottle)",
-    "items": [
-      {"name": "홍차 밀크티", "price": 6800, "stockCount": 1, "isShow": "Y"},
-      {"name": "우롱 밀크티", "price": 6800, "stockCount": 1, "isShow": "Y"},
-      {"name": "자스민 밀크티", "price": 6500, "stockCount": 1, "isShow": "Y"}
-    ]
-  },
-  {
-    "title": "Etc",
-    "items": [
-      {"name": "홍차 + 마카롱 세트", "price": 7500, "stockCount": 1, "isShow": "Y"},
-      {"name": "홍차 + 큐브 파운드 세트", "price": 8000, "stockCount": 1, "isShow": "Y"},
       {"name": "사과 주스 (탄산)", "price": 3500, "stockCount": 1, "isShow": "Y"},
       {"name": "사과 주스 (무탄산)", "price": 3500, "stockCount": 1, "isShow": "Y"}
+    ]
+  },
+  {
+    "title": "에이드",
+    "items": [
+      {"name": "청포도 에이드", "price": 5000, "stockCount": 1, "isShow": "Y"},
+      {"name": "레몬 에이드", "price": 5000, "stockCount": 1, "isShow": "Y"},
+      {"name": "자몽 에이드", "price": 5000, "stockCount": 1, "isShow": "Y"},
+      {"name": "복숭아 아이스티", "price": 3000, "stockCount": 1, "isShow": "Y"}
+    ]
+  }
+  {
+    "title": "세트 메뉴",
+    "items": [
+      {"name": "홍차 + 마카롱 세트", "price": 7500, "stockCount": 1, "isShow": "Y"},
+      {"name": "홍차 + 큐브 파운드 세트", "price": 8000, "stockCount": 1, "isShow": "Y"}
     ]
   }
 ]
