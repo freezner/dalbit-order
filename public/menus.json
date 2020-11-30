@@ -26,6 +26,8 @@
   {
     "title": "차/음료",
     "items": [
+      {"name": "달꽃라떼(복숭아꽃)", "is_hot": 2, "price": 5500, "stockCount": 1, "isShow": "Y"},
+      {"name": "달꽃라떼(메리골드)", "is_hot": 2, "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "아메리카노(13oz)", "is_hot": 1, "price": 1500, "stockCount": 1, "isShow": "Y"},
       {"name": "아메리카노(16oz)", "price": 2500, "stockCount": 1, "isShow": "Y"},
       {"name": "카페라떼", "is_hot": 2, "price": 4000, "stockCount": 1, "isShow": "Y"},
