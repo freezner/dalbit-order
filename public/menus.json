@@ -16,6 +16,7 @@
   {
     "title": "쿠키",
     "items": [
+      {"name": "무화과 치즈 쿠키", "price": 2500, "stockCount": 1, "isShow": "Y"},
       {"name": "크랜베리 치즈 쿠키", "price": 2500, "stockCount": 1, "isShow": "Y"},
       {"name": "브라우니 쿠키", "price": 1300, "stockCount": 1, "isShow": "Y"},
       {"name": "마약콘 쿠키", "price": 2200, "stockCount": 1, "isShow": "Y"},
