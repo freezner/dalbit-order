@@ -14,7 +14,7 @@ export default class MenuItem extends Component {
 
     componentWillMount () {
         request
-            .get(process.env.REACT_APP_API_URL + 'item/list')
+            .get(process.env.REACT_APP_API_URL + '/item/list')
             .accept('application/json')
             .end((err, res) => {
                 this.loadedJSON(err, res)
