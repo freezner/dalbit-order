@@ -14,7 +14,7 @@ export default class MenuItem extends Component {
 
     componentWillMount () {
         request
-            .get('/menus.json')
+            .get(process.env.REACT_APP_API_URL + 'item/list')
             .accept('application/json')
             .end((err, res) => {
                 this.loadedJSON(err, res)
@@ -43,7 +43,7 @@ export default class MenuItem extends Component {
                 var isHotText = ""
                 var isHotStyle = menuStyle.hotAndIced
 
-                if (d.price_min != undefined) {
+                if (d.price_min !== undefined) {
                     price = d.price_min.toLocaleString() + " ~ " + d.price.toLocaleString() + "원"
                 } else {
                     price = d.price.toLocaleString() + "원"
@@ -51,7 +51,7 @@ export default class MenuItem extends Component {
 
                 
 
-                if (d.is_hot != undefined) {
+                if (d.is_hot !== undefined) {
                     switch(d.is_hot) {
                         case 1: 
                             isHotText = "Hot Only";
