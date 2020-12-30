@@ -13,7 +13,6 @@ export default class MenuItem extends Component {
     }
 
     componentWillMount () {
-        console.log('REACT_APP_API_URL: ' + process.env.REACT_APP_API_URL)
         request
             .get(process.env.REACT_APP_API_URL + '/item/list')
             .accept('application/json')
