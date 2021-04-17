@@ -16,8 +16,6 @@
   {
     "title": "차/음료",
     "items": [
-      {"name": "달꽃라떼(복숭아꽃)", "is_hot": 2, "price": 5500, "stockCount": 1, "isShow": "Y"},
-      {"name": "달꽃라떼(메리골드)", "is_hot": 2, "price": 5500, "stockCount": 1, "isShow": "Y"},
       {"name": "아메리카노(13oz)", "is_hot": 1, "price": 1500, "stockCount": 1, "isShow": "Y"},
       {"name": "아메리카노(16oz)", "price": 2500, "stockCount": 1, "isShow": "Y"},
       {"name": "카페라떼", "is_hot": 2, "price": 4000, "stockCount": 1, "isShow": "Y"},
@@ -43,8 +41,8 @@
   {
     "title": "세트 메뉴",
     "items": [
-      {"name": "홍차 + 마카롱 세트", "price": 7500, "stockCount": 1, "isShow": "Y"},
-      {"name": "홍차 + 큐브 파운드 세트", "price": 8000, "stockCount": 1, "isShow": "Y"}
+      {"name": "마카롱 세트 (아메리카노 16oz + 마카롱 2P + 랜덤 쿠키 1P)", "price": 7000, "stockCount": 1, "isShow": "Y"},
+      {"name": "파운드 세트 (아메리카노 16oz + 큐브 파운드 1P + 랜덤 쿠키 1P)", "price": 8000, "stockCount": 1, "isShow": "Y"}
     ]
   }
 ]
