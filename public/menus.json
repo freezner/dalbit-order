@@ -2,7 +2,6 @@
   {
     "title": "디저트",
     "items": [
-      {"name": "마카롱 단품", "price_min": 2200, "price": 2500, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 4구", "price": 10000, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 6구", "price": 15000, "stockCount": 1, "isShow": "Y"},
       {"name": "마카롱 9구", "price": 22500, "stockCount": 1, "isShow": "Y"},
