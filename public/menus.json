@@ -14,17 +14,6 @@
     ]
   },
   {
-    "title": "쿠키",
-    "items": [
-      {"name": "무화과 치즈 쿠키", "price": 2500, "stockCount": 1, "isShow": "Y"},
-      {"name": "크랜베리 치즈 쿠키", "price": 2500, "stockCount": 1, "isShow": "Y"},
-      {"name": "브라우니 쿠키", "price": 1300, "stockCount": 1, "isShow": "Y"},
-      {"name": "마약콘 쿠키", "price": 2200, "stockCount": 1, "isShow": "Y"},
-      {"name": "달치즈 쿠키", "price": 2000, "stockCount": 1, "isShow": "Y"},
-      {"name": "스콘", "price": 3000, "stockCount": 1, "isShow": "Y"}
-    ]
-  },
-  {
     "title": "차/음료",
     "items": [
       {"name": "달꽃라떼(복숭아꽃)", "is_hot": 2, "price": 5500, "stockCount": 1, "isShow": "Y"},
